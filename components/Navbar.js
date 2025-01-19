@@ -69,49 +69,49 @@ export default function Navbar() {
         >
           <div className="flex flex-col md:flex-row md:space-x-6">
             <Link
-              href="/about"
+              href="/about" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               About
             </Link>
             <Link
-              href="/founders"
+              href="/founders" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Founders
             </Link>
             <Link
-              href="/gadkol"
+              href="/gadkol" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Gadkol
             </Link>
             <Link
-              href="/achievements"
+              href="/achievements" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Achievements
             </Link>
             <Link
-              href="/board"
+              href="/board" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Board
             </Link>
             <Link
-              href="/gallery"
+              href="/gallery" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Gallery
             </Link>
             <Link
-              href="/news"
+              href="/news" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               News
             </Link>
             <Link
-              href="/contact"
+              href="/contact" onClick={() => setIsOpen(!isOpen)}
               className="px-4 py-2 hover:bg-white/10 transition-colors text-lg"
             >
               Contact
