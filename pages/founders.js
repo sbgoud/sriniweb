@@ -51,7 +51,7 @@ export default function Founders() {
         {/* Founder 2: Tirumala Rani Dayala */}
         <div className="mb-10">
           <h2 className="text-2xl font-semibold mb-2">
-            Mrs. Tirumala Rani Dayala
+            Mrs. Janaki
           </h2>
           <div className="flex flex-col md:flex-row items-start md:items-center">
             {/* Dummy portrait from Pexels */}
@@ -61,7 +61,7 @@ export default function Founders() {
               className="w-48 h-48 object-cover rounded-full mr-6 mb-4 md:mb-0"
             />
             <p>
-              Tirumala Rani Dayala co-founded SRINI Foundation with a vision to
+              Janaki co-founded SRINI Foundation with a vision to
               uplift rural communities through education and inclusive programs.
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
               placerat congue massa.

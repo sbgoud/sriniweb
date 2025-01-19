@@ -70,7 +70,7 @@ export default function Home() {
           {/* Card 2 */}
           <div className="bg-white rounded shadow hover:shadow-xl transition-shadow p-4 transform hover:-translate-y-2 hover:scale-105 duration-300">
             <Image
-              src="https://images.pexels.com/photos/3055657/pexels-photo-3055657.jpeg"
+              src="https://images.pexels.com/photos/30230054/pexels-photo-3055657.jpeg"
               alt="Initiative 2"
               width={400}
               height={250}
